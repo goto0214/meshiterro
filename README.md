@@ -4,8 +4,7 @@ DMM WEBCAMPの学習コンテンツ、二か月目チーム開発の課題です
 ## トップ画面
 **↓トップ画面**
 
-![top]
-(https://user-images.githubusercontent.com/93575477/150904007-ee18099c-50b4-41f2-876f-b95bca80cd27.png)
+![top](https://user-images.githubusercontent.com/93575477/150904007-ee18099c-50b4-41f2-876f-b95bca80cd27.png)
 
 
 ##  アプリ作成の背景
@@ -13,8 +12,7 @@ DMM WEBCAMPの学習コンテンツ、二か月目チーム開発の課題です
 
 
 ##  ER図
-![ER図]
-(https://user-images.githubusercontent.com/93575477/150904315-829df852-1f83-4675-88ad-90c2987c35b8.png)
+![ER図](https://user-images.githubusercontent.com/93575477/150904315-829df852-1f83-4675-88ad-90c2987c35b8.png)
 
 
 
